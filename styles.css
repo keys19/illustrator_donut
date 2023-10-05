@@ -1,0 +1,18 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 211, 228);
+}
+
+
+svg{
+    display: block;
+    margin-left: 25%;
+    width: 1000px;
+    height: 100%;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Neucha', cursive;
+    text-align: right;}
